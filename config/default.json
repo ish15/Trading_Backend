@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://112115142:1A2b3c4@@cluster0.gx2bkeg.mongodb.net/",
+    "mongoURI": "database link",
     "jwtSecret": "mt_myJwtSecret",
     "orderTypes": ["market", "limit", "stop", "buy-stop"],
     "IEXCloudToken": "pk_5187144627fe41f783caf3f0341d7f3e",
